@@ -20,79 +20,18 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **Docker**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
 
 # Docker
 
-# Connect With Me:
+> A curated and organized collection of resources related to **Docker**.
 
-  </a>
-  </a>
-  </a>
-  <a href="mailto:abdulwahabjunaid07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
-  </a>
-  </a>
+**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
-  # 💰 You can help me by Donating
-  
-> Explore Docker examples: containerize apps, multi-container setups with Docker Compose, CI/CD integration, and best practices for efficient deployment.
-
-<!-- TOC -->
-
-- [What is Docker](#what-is-docker)
-- [Where to start](#where-to-start)
-- [Where to start (Windows)](#where-to-start-windows)
-- [Projects](#projects)
-  - [Container Operations](#container-operations)
-    - [Container Composition](#container-composition)
-    - [Deployment and Infrastructure](#deployment-and-infrastructure)
-    - [Monitoring](#monitoring)
-    - [Networking](#networking)
-    - [Orchestration](#orchestration)
-    - [PaaS](#paas)
-    - [Reverse Proxy](#reverse-proxy)
-    - [Runtime](#runtime)
-    - [Security](#security)
-    - [Service Discovery](#service-discovery)
-    - [Volume Management / Data](#volume-management--data)
-    - [User Interface](#user-interface)
-      - [IDE integrations](#ide-integrations)
-      - [Desktop](#desktop)
-      - [Terminal](#terminal)
-        - [Terminal UI](#terminal-ui)
-        - [CLI tools](#cli-tools)
-        - [Other](#other)
-      - [Web](#web)
-  - [Docker Images](#docker-images)
-    - [Base Tools](#base-tools)
-    - [Builder](#builder)
-    - [Dockerfile](#dockerfile)
-    - [Linter](#linter)
-    - [Metadata](#metadata)
-    - [Registry](#registry)
-  - [Development with Docker](#development-with-docker)
-    - [API Client](#api-client)
-    - [CI/CD](#cicd)
-    - [Development Environment](#development-environment)
-    - [Garbage Collection](#garbage-collection)
-    - [Serverless](#serverless)
-    - [Testing](#testing)
-    - [Wrappers](#wrappers)
-  - [Services based on Docker (mostly :heavy\_dollar\_sign:)](#services-based-on-docker-mostly-heavy_dollar_sign)
-    - [CI Services](#ci-services)
-    - [CaaS](#caas)
-    - [Monitoring Services](#monitoring-services)
-- [Useful Resources](#useful-resources)
-  - [Awesome Lists](#awesome-lists)
-  - [Demos and Examples](#demos-and-examples)
-  - [Good Tips](#good-tips)
-  - [Raspberry Pi \& ARM](#raspberry-pi--arm)
-  - [Security](#security-1)
-  - [Videos](#videos)
-- [Communities and Meetups](#communities-and-meetups)
-  - [English](#english)
+# Docker
 
 # What is Docker
 
